@@ -11,9 +11,7 @@ O jogador ganha experiência (EXP) a cada vitória e pode evoluir de nível, aum
 
  📸 Demonstração
 
-> 🖼️ *Adicione aqui um print do jogo rodando no terminal!*
->
-> 
+
 ![print_estudo1](https://github.com/user-attachments/assets/ed2bd1a9-5b22-4c04-b3da-d4eee41c59f3)
 
 
